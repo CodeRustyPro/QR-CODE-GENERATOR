@@ -17,5 +17,4 @@ People can use this easily as it is simple and responsive.
 
 👍 It is build with HTML CSS JAVASCRIPT 👍
 
-
-https://forthebadge.com/images/badges/built-with-love.svg
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
