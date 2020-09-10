@@ -5,7 +5,9 @@ Hi there, I'm Dev 👋
 
 
 🌱 I’m currently learning everything 🤣
+
 👯 I’m looking to collaborate with other content creators
+
 🥅 2020 Goals: Contribute more to Open Source projects
 
 
@@ -17,4 +19,4 @@ People can use this easily as it is simple and responsive.
 
 👍 It is build with HTML CSS JAVASCRIPT 👍
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
