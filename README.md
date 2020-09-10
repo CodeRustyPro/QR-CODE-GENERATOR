@@ -11,7 +11,8 @@ Hi there, I'm Dev 👋
 🥅 2020 Goals: Contribute more to Open Source projects
 
 
-About this project :  ![Dev Shah](https://forthebadge.com/images/badges/built-with-love.svg)
+About this project :
+![Dev Shah](https://forthebadge.com/images/badges/built-with-love.svg)
 
 This is an open souce QR-Code generator for any kind of data 
 
