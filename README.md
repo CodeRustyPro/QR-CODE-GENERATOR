@@ -20,3 +20,4 @@ People can use this easily as it is simple and responsive.
 👍 It is build with HTML CSS JAVASCRIPT 👍
 
 
+![Dev Shah](https://forthebadge.com/images/badges/built-with-love.svg)
