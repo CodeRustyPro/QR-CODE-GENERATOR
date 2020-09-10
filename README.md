@@ -12,6 +12,7 @@ Hi there, I'm Dev 👋
 
 
 About this project :
+
 ![Dev Shah](https://forthebadge.com/images/badges/built-with-love.svg)
 
 This is an open souce QR-Code generator for any kind of data 
